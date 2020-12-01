@@ -38,12 +38,10 @@
 
 #### Doubly Linked List - [Learn here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BnOGTj3Pxjsv1ehh5IUcT8X)
 #### Problems : 
-
-* *Print the doubly linked list* - [Learn from here]()
-* *Insert node after a particular node in a doubly linked list (First, last and middle)* - [Learn from here]()
-* *Insert node before a particular node in a doubly linked list (First, last and middle)* - [Learn from here]()
-* *Remove a particular node from a doubly linked list (first, last and middle)* - [Learn from here]()
-* *Create, push and pop in stack  (array representation & linked list representation)* - [Learn from here]()
+* *Print the doubly linked list* - [Learn from here](https://www.geeksforgeeks.org/doubly-linked-list/)
+* *Insert node after a particular node in a doubly linked list (First, last and middle)* -[Solve here](https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1/?category[]=Linked%20List&page=2&query=category[]Linked%20Listpage2) | [Learn from here]()
+* *Insert node before a particular node in a doubly linked list (First, last and middle)* - [Learn from here](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
+* *Remove a particular node from a doubly linked list (first, last and middle)* - [Solve here](https://practice.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1/?category[]=Linked%20List&page=2&query=category[]Linked%20Listpage2) | [Learn from here](https://www.geeksforgeeks.org/delete-a-node-in-a-doubly-linked-list/)
 
 
 ### **Stacks** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BngntkqmL5IlEdCmHF_b1d9)
